@@ -39,7 +39,7 @@ MTD Funded Amount
 MTD Amount Received
 Average Interest Rate
 Average DTI
-Power BI Dashboard
+# Power BI Dashboard
 The Power BI dashboard is divided into three main pages:
 
 Summary Page
