@@ -8,7 +8,7 @@ Here's the updated README for your bank loan analysis project, incorporating the
 SQL: For data extraction, transformation, and analysis.
 Power BI: For data visualization and dashboard creation.
 
-SQL Planning and Analysis
+# SQL Planning and Analysis
 The SQL analysis involved:
 
 Total Loan Applications: Calculated the total number of loan applications received during a specified period. Monitored Month-to-Date (MTD) applications and tracked Month-over-Month (MoM) changes.
